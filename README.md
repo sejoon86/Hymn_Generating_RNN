@@ -5,7 +5,7 @@ This Hymn Generator will be able to generate new hymn based on classical hymns.
 
 ## Requirements for the Generator
 
-* The trained Generator will be able to 'predict' the future notes.
+* The trained Generator should be able to 'predict' future notes.
 * The Generator should be able to decide if the generated hymn has 'ended'.
 * The Generator should be able to make several possible output sequences with given input (for user collaboration and/or cherry picking)
 * The generated hymn should have similar musical style compared to the classical hymns.
