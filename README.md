@@ -1,4 +1,4 @@
-#Hymn Generator based on RNN
+# Hymn Generator based on RNN
 
 This Hymn Generator will be able to generate new hymn based on classical hymns. 
 
