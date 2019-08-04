@@ -31,3 +31,8 @@ This Hymn Generator will be able to generate new hymn based on classical hymns.
 * Generate new hymn with starting input with the well known "Amazing grace how sweet ..." part.
 * Make a demo for GitHub, and update ReadMe so others could also generate new hymns.
 
+
+### Related Links
+[DeepBach Paper](https://arxiv.org/pdf/1612.01010.pdf)
+[YouTube Video, GOTO 2017 • Composing Bach Chorales Using Deep Learning • Feynman Liang] (https://www.youtube.com/watch?v=yu3DZuxxV7c)
+[Liang, Feynman. Bachbot. GitHub](https://github.com/feynmanliang/bachbot)
