@@ -34,5 +34,5 @@ This Hymn Generator will be able to generate new hymn based on classical hymns.
 
 ### Related Links
 [DeepBach Paper](https://arxiv.org/pdf/1612.01010.pdf)
-[YouTube Video, GOTO 2017 • Composing Bach Chorales Using Deep Learning • Feynman Liang] (https://www.youtube.com/watch?v=yu3DZuxxV7c)
+[YouTube Video, GOTO 2017 • Composing Bach Chorales Using Deep Learning • Feynman Liang](https://www.youtube.com/watch?v=yu3DZuxxV7c)
 [Liang, Feynman. Bachbot. GitHub](https://github.com/feynmanliang/bachbot)
