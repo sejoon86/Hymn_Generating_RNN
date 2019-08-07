@@ -36,3 +36,11 @@ This Hymn Generator will be able to generate new hymn based on classical hymns.
 * [DeepBach Paper](https://arxiv.org/pdf/1612.01010.pdf)
 * [YouTube Video, GOTO 2017 • Composing Bach Chorales Using Deep Learning • Feynman Liang](https://www.youtube.com/watch?v=yu3DZuxxV7c)
 * [Liang, Feynman. Bachbot. GitHub](https://github.com/feynmanliang/bachbot)
+
+### Current To do List
+* Download a bunch of hymn midi files
+* find a way to change midi file to csv file
+* write code to preprocess csv file (for NN input)
+* train RNN
+* find a way to turn csv into midi file
+* play midi file (for checking)
